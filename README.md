@@ -1,52 +1,55 @@
-# 👋 Hi, I'm Abdulla Khan (he/him)
+<!-- Stylish GitHub Profile README for Abdulla Khan -->
 
-🎓 **Student at CDAC**  
-💻 **Diploma in Advanced Secure Software Development**  
-💡 Passionate about **C, C++, and Python**  
-🌍 **Based in Mumbai, India**  
+<h1 align="center">👋 Hi, I'm <span style="color:#00ADEF;">Abdulla Khan</span> (he/him)</h1>
 
-📧 **Email:** [abdullakhan2804@gmail.com](mailto:abdullakhan2804@gmail.com)
-
----
-
-### 🚀 About Me  
-- 🌱 Currently learning **Secure Software Development**  
-- 💻 Interested in **software engineering**, **application development**, and **system security**  
-- 🧩 Enthusiastic about writing clean, efficient, and secure code  
-- ⚙️ Always eager to learn new technologies and tools  
-- 🎯 Goal: To become a skilled **software developer** with expertise in security-focused systems  
+<p align="center">
+  🎓 <b>Student at CDAC</b> • 💻 <b>Diploma in Advanced Secure Software Development</b><br>
+  🧠 Passionate about <b>C</b> | <b>C++</b> | <b>Python</b> | Secure Software Design
+</p>
 
 ---
 
-### 🧠 Skills  
-**Programming Languages:**  
-`C` · `C++` · `Python`
-
-**Core Areas:**  
-- Secure Software Design  
-- Object-Oriented Programming  
-- Problem Solving  
-- Debugging & Optimization  
+### 🧩 About Me
+🌱 Currently learning secure coding practices & advanced development techniques  
+💡 Interested in software security, backend systems, and app development  
+⚙️ Enthusiastic about clean, efficient, and secure code  
+📍 Mumbai, India  
 
 ---
 
-### 📈 GitHub Journey  
-🚀 Joined GitHub on **November 2, 2025**  
-🌱 Currently exploring open-source and personal projects  
-💡 Plan: Create repositories to showcase my learning and skills  
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-AbdullaKhann-181717?style=for-the-badge&logo=github)](https://github.com/AbdullaKhann)
-[![Gmail](https://img.shields.io/badge/Email-abdullakhan2804%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullakhan2804@gmail.com)
-[![Location](https://img.shields.io/badge/Mumbai%2C%20India-000?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullaKhann&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullaKhann&layout=compact&theme=tokyonight" height="160">
+</p>
 
 ---
 
-### ⚡ Fun Fact  
-> “Every expert was once a beginner — keep coding, keep growing!”
+### 📫 Connect With Me
+<p align="center">
+  <a href="mailto:abdullakhan2804@gmail.com"><img src="https://img.shields.io/badge/Email-abdullakhan2804%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/AbdullaKhann"><img src="https://img.shields.io/badge/GitHub-AbdullaKhann-181717?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mumbai%2C%20India-000?style=for-the-badge&logo=google-maps&logoColor=white"></a>
+</p>
 
 ---
 
-⭐️ *From [Abdulla Khan](https://github.com/AbdullaKhann)*
+<h3 align="center">⚡ Fun Quote</h3>
+<p align="center">
+  <i>"Every expert was once a beginner — keep coding, keep growing!"</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdullaKhann&style=flat-square&color=blue" alt="Profile views"/>
+</p>
