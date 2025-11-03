@@ -45,7 +45,7 @@
 
 <h3 align="center">⚡ Fun Quote</h3>
 <p align="center">
-  <i>"Every expert was once a beginner — keep coding, keep growing! Made by Chatgpt and Abhay."</i>
+  <i>"Code securely, build confidently."</i>
 </p>
 
 ---
