@@ -1,6 +1,6 @@
 <!-- Stylish GitHub Profile README for Abdulla Khan -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00ADEF;">Abdulla Khan</span> (he/him)</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00ADEF;">Abdulla Khan</span></h1>
 
 <p align="center">
   🎓 <b>Student at CDAC</b> • 💻 <b>Diploma in Advanced Secure Software Development</b><br>
